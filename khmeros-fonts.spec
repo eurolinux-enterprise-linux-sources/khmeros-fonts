@@ -13,7 +13,7 @@ They were created by Danh Hong of the Cambodian Open Institute.
 
 Name:           %{fontname}-fonts
 Version:        5.0
-Release:        16%{?dist}
+Release:        17%{?dist}
 Summary:        Khmer font set created by Danh Hong of the Cambodian Open Institute
 
 Group:          User Interface/X
@@ -163,6 +163,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 5.0-17
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 5.0-16
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
